@@ -1,0 +1,3 @@
+*.session
+*.mp3
+__pycache__/*
