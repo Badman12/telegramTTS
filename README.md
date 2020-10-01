@@ -1,4 +1,4 @@
-# Telegram TTS system
+# Awesome Telegram TTS system
 
 This is Text To Speach system client for Telegram
 
